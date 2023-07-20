@@ -14,7 +14,7 @@ window.addEventListener('load', () => {
         document.getElementsByTagName("garlic-bread-embed")[0].shadowRoot.children[0].getElementsByTagName("garlic-bread-canvas")[0].shadowRoot.children[0].appendChild(
     (function () {
         const i = document.createElement("img");
-        i.src = "https://raw.githubusercontent.com/PinkFluffy1Corn/bangtanplace2022/2023/overlay-v2.png";
+        i.src = "https://raw.githubusercontent.com/PinkFluffy1Corn/bangtanplace2022/2023/overlay-01.png";
         i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
         return i;
     })())
