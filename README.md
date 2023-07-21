@@ -5,7 +5,9 @@ overlay for r/place
 Install Tampermokey in Chrome and add the overlay.user.js script to it, to show the overlay on the canvas.
 The script basically adds an image on top of the canvas. The image for the overlay, as well as individual images for some of the parts are included in this repo. If new changes don't show, try switching between "overlay-01.png" and "overlay-02.png" in the script to get around caching.
 
-Included in the overlay: take two design (388,298) and the r/whales design above it (gone for now) & the BTS logo with hearts (481, -154).
+Included in the overlay:
+- take two design (388,298) and the r/whales design above it (gone for now)
+- the BTS logo with hearts (481, -154) and the menorah above it from an ally.
 
 Detailed Tampermonkey instructions:
 1. Install the TamperMonkey extension for Chrome. Go to the 3 dots menu for Chrome and go to Extensions > Manage Extensions.
