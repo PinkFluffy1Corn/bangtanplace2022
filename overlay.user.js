@@ -15,7 +15,7 @@ window.addEventListener('load', () => {
     (function () {
         const i = document.createElement("img");
         i.src = "https://raw.githubusercontent.com/PinkFluffy1Corn/bangtanplace2022/2023/overlay-01.png";
-        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1500px;";
+        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2500px;height: 2000px;";
         return i;
     })())
 }, false);
